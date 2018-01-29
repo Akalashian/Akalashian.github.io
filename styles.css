@@ -1,0 +1,35 @@
+.jumbotron{
+background-image: url(house.jpg);
+background-size:repeat;
+}
+
+h1{
+  text-shadow:1px 1px 1px black;
+  font-weight:bold;
+  font-family: 'squada one', cursive;
+}
+
+img{
+  border-style:dashed;
+}
+
+#nav{
+font-family: 'squada one', cursive;
+}
+
+h2{
+  font-family: 'squada one', cursive;
+}
+
+h3{
+  font-family: 'squada one', cursive;
+}
+
+#table{
+font-family: 'squada one', cursive;
+}
+
+img.resize{
+  max-width:200px;
+  max-height:400px;
+}
